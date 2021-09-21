@@ -94,7 +94,7 @@
     "PWA": {
       "enabled": true
     },
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
@@ -648,7 +648,7 @@
               "margin": "auto"
             },
             ".card-title": {
-              "color": "#ea2396",
+              "color": "#e6c63b",
               "text-align": "center"
             },
             ".card-wrapper": {
