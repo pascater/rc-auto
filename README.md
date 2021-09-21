@@ -1,0 +1,2 @@
+# rc-auto
+GitHub Pages
