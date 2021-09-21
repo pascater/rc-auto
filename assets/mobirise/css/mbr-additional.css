@@ -1131,6 +1131,59 @@ a {
   color: #2299aa;
   text-align: center;
 }
+.cid-sJEPycR3Oe {
+  padding-top: 1rem;
+  padding-bottom: 0rem;
+  background-color: #f2f3f7;
+}
+.cid-sJEPycR3Oe .title {
+  padding: 0 2rem;
+  color: #2299aa;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+}
+.cid-sJEPycR3Oe .card-title {
+  color: #ea2396;
+  text-align: center;
+}
+.cid-sJEPycR3Oe .card-wrapper {
+  overflow: visible;
+  display: flex;
+  align-items: center;
+  padding: 2rem 3rem;
+  border-radius: 3rem;
+  cursor: pointer;
+  box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+  transition: all 0.3s;
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-sJEPycR3Oe .card-wrapper {
+    flex-direction: row;
+    padding: 1rem 2rem;
+  }
+}
+.cid-sJEPycR3Oe .card-wrapper:hover {
+  background: #f8f9fb;
+  box-shadow: 0em 0em 3em #d2dce9, -0.5em -0.5em 1em #ffffff;
+}
+.cid-sJEPycR3Oe .card-box {
+  margin: auto;
+}
+@media (max-width: 767px) {
+  .cid-sJEPycR3Oe .card-box {
+    text-align: center;
+  }
+}
+@media (max-width: 992px) {
+  .cid-sJEPycR3Oe .mt-5 {
+    margin-top: 0.5rem!important;
+  }
+}
+.cid-sJEPycR3Oe .card-text {
+  text-align: center;
+}
 .cid-svGO3o7YHJ {
   padding-top: 1rem;
   padding-bottom: 3rem;
@@ -1138,6 +1191,7 @@ a {
 }
 .cid-svGO3o7YHJ .mbr-section-title {
   color: #000000;
+  text-align: center;
 }
 .cid-svGO3o7YHJ .mbr-section-subtitle {
   color: #0196e3;
@@ -1168,6 +1222,34 @@ a {
   width: 100%;
   color: #2299aa;
   text-align: center;
+}
+.cid-sJEPx7oZCu {
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  background-color: #f2f3f7;
+}
+.cid-sJEPx7oZCu .mbr-section-title {
+  color: #36187d;
+}
+.cid-sJEPx7oZCu .mbr-section-subtitle {
+  color: #36187d;
+}
+@media (max-width: 992px) {
+  .cid-sJEPx7oZCu .align-left {
+    text-align: center;
+  }
+}
+.cid-sJEPx7oZCu .row {
+  transition: all 0.3s;
+  margin: 0;
+  padding: 4rem 2rem;
+  border-radius: 3rem;
+  box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-sJEPx7oZCu .row {
+    padding: 3rem 2rem;
+  }
 }
 .cid-svGOrpYd1R {
   padding-top: 6rem;
