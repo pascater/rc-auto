@@ -697,7 +697,7 @@ a {
   min-height: 140px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(242, 243, 247, 0);
+  background: #f2f3f7;
 }
 .cid-svGO3L0vrV .navbar.opened {
   transition: all 0.3s;
