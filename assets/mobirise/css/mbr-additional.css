@@ -678,11 +678,8 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-svGO3L0vrV {
-  z-index: 1000;
-  width: 100%;
-  position: relative;
-  min-height: 60px;
+.cid-svGO3L0vrV .navbar-dropdown {
+  position: relative !important;
 }
 .cid-svGO3L0vrV .container {
   max-width: 1400px;
@@ -817,9 +814,6 @@ a {
 .cid-svGO3L0vrV .nav-link {
   font-weight: 700;
   position: relative;
-}
-.cid-svGO3L0vrV nav.navbar {
-  position: fixed;
 }
 .cid-svGO3L0vrV .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1008,7 +1002,6 @@ a {
 }
 .cid-svGO3L0vrV .navbar-dropdown {
   padding: 0 1rem;
-  position: fixed;
 }
 .cid-svGO3L0vrV a.nav-link {
   display: flex;
